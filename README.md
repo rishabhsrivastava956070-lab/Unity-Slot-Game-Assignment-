@@ -14,7 +14,7 @@ reel animation.
   cryptographically fair, unpredictable outcomes. Each reel's outcome
   is decided up-front before the visual spin starts.
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](photo.png)
 ## 📁 Folder Structure
 
 ```
